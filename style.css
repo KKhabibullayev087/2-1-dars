@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+.name{
+    background-color: turquoise;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.wrapper{
+    width: 97%;
+    height: 800px;
+    background-color: bisque;
+    margin: 0 auto;
+    border-radius: 20pxs;
+    
+}
+
+.button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 35px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+     border: none;
+    
+}
+
+
+.dic2{
+    margin: 20px;
+    padding: 20px;
+}
+
+.img{
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
